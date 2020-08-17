@@ -1,6 +1,6 @@
-### Hi there, I'm Yueheng Xiang - aka [coco][website] 👋
+### Hi there, I'm Yueheng Xiang - aka [Coco][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://coco-portfolio.netlify.app/)
+[![Website](https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https://coco-portfolio.netlify.app/)](https://coco-portfolio.netlify.app/)
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -11,10 +11,6 @@
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://coco-portfolio.netlify.app/" />][website]
 
 <br />
 
