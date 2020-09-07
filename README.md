@@ -1,8 +1,10 @@
-### Hi there, I'm Yueheng Xiang - (aka Coco)website: https://coco-portfolio.netlify.app/
+### Hi there, I'm Yueheng Xiang - (aka Coco)
+
+website: https://coco-portfolio.netlify.app/
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other creators.I am currently Look for a job. 🤣
+- 🥅 2020 Goals: Contribute more to Open Source projects. Get a nice job! with nice teammate! 🤣
 
 ### Spotify Playing 🎧
 
