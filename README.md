@@ -1,4 +1,4 @@
-### Hi there, I'm Yueheng Xiang - (aka Coco)website: (https://img.shields.io/website?label=MyWebsite&style=for-the-badge&url=https://coco-portfolio.netlify.app/)]https://coco-portfolio.netlify.app/ 👋
+### Hi there, I'm Yueheng Xiang - (aka Coco)website: https://coco-portfolio.netlify.app/
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
