@@ -3,7 +3,7 @@
 website: https://coco-portfolio.netlify.app/
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other creators.I am currently Look for a job. 🤣
+- 👯 I’m looking to collaborate with other creators. I am currently Look for a job. 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects. Get a nice job! with nice teammate! 🤣
 
 ### Spotify Playing 🎧
