@@ -5,7 +5,7 @@ website: https://coco-portfolio.netlify.app/
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other creators. I am currently Look for a job. 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects. Get a nice job! with nice teammate! 🤣
-- currently building a ecommercial shop using what i've learned. https://littlestore.netlify.app/ (still building)
+- currently building a ecommercial shop using what i've learned. https://littlestore.netlify.app/ (continue building)
 
 ### Spotify Playing 🎧
 
